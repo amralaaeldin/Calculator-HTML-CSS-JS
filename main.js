@@ -8,7 +8,6 @@
       const del = document.querySelector('.del');
       const percent = document.querySelector('.percent');
       const realoperators= ['+','-','*','/','.'];
-      console.log(realoperators);
 
       // clear btn
       clear.addEventListener('click', function () {
